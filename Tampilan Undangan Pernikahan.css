@@ -1,0 +1,42 @@
+body {
+    background-image: url('Foto_Tunangan_Tangan.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 48px;
+    color: #ff6b6b;
+  }
+  
+  h2 {
+    font-size: 36px;
+    margin-top: 50px;
+  }
+  
+  p {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff6b6b;
+    color: white;
+    text-decoration: none;
+    margin-top: 30px;
+    border-radius: 5px;
+  }
+  
